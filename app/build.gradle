@@ -1,13 +1,13 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
-    id 'no.promon.shield.shieldplugin'
+    //id 'no.promon.shield.shieldplugin'
 }
 
-shieldConfig {
-    shielderJar "/Users/protect/Desktop/Promon/Shield_Android/Shielder/Shielder.jar"
-    config "/Users/protect/Desktop/Promon/Shield_Android/Shielder/config-template.xml"
-}
+//shieldConfig {
+//    shielderJar "/Users/protect/Desktop/Promon/Shield_Android/Shielder/Shielder.jar"
+//    config "/Users/protect/Desktop/Promon/Shield_Android/Shielder/config-template.xml"
+//}
 
 android {
     namespace 'com.example.helloworld'

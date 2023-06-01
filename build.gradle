@@ -2,7 +2,7 @@
 
 buildscript {
     dependencies {
-        classpath files('/Users/protect/Desktop/Promon/shield-gradle-plugin-2.0.1.jar')
+        //classpath files('/Users/protect/Desktop/Promon/shield-gradle-plugin-2.0.1.jar')
     }
 }
 plugins {
